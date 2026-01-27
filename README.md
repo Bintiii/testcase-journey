@@ -1,2 +1,2 @@
 # testcase-journey
-This folder is used to store and organize all manual test cases created following standard Software Quality Assurance practices.
+<b>This folder is used to store and organize all my manual test cases created following standard Software Quality Assurance practices.</b>
